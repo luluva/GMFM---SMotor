@@ -19,4 +19,10 @@ Podran ingresar al siguiente link que conduce a nuestro proyecto.
 
 http://35.243.221.16:8081/GMFM-SMotor/faces/VLogin.xhtml
 
+Para descargar la aplicacion movil:
+https://drive.google.com/open?id=1GOl7dUQ6d9re2q7OKXYPwcYsyMZptGvu
+
+Para Descargar el Proyecto:
+
+
 Para mayor informacio se adjunto los documentos respectivos.
