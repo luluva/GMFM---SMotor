@@ -23,6 +23,7 @@ Para descargar la aplicacion movil:
 https://drive.google.com/open?id=1GOl7dUQ6d9re2q7OKXYPwcYsyMZptGvu
 
 Para Descargar el Proyecto:
+https://drive.google.com/open?id=1By260TVuey-YBwzDwefWGIti38z6sdCR
 
 
 Para mayor informacio se adjunto los documentos respectivos.
